@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1479397366 source:c:\users\facu\desktop\programazao\tps\practica parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479152334 c:\users\facu\desktop\programazao\tps\practica parcial2\arraylist.h
+
+1479412980 source:c:\users\facu\desktop\programazao\tps\practica parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"movie.h"
+	"lib.h"
+
+1479409773 source:c:\users\facu\desktop\programazao\tps\practica parcial2\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+	"movie.h"
+
+1479409790 c:\users\facu\desktop\programazao\tps\practica parcial2\lib.h
+	"ArrayList.h"
+
+1479413185 c:\users\facu\desktop\programazao\tps\practica parcial2\movie.h
+	"ArrayList.h"
+
+1479413209 source:c:\users\facu\desktop\programazao\tps\practica parcial2\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"lib.h"
+	"ArrayList.h"
+
